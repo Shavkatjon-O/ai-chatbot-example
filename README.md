@@ -1,8 +1,8 @@
-### Demo
+## Demo
 
 ![Demo Image](images/demo.png)
 
-### Quickstart
+## Quickstart
 
 1. create virtual environment
 

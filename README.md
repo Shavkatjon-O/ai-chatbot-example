@@ -1,4 +1,9 @@
-## Start from here
+### Contents
+
+- [Usage](#usage)
+- [Demo](#demo)
+
+### Usage
 
 ```bash
 python3 -m venv venv
@@ -20,7 +25,7 @@ cp .env.example .env
 python main.py
 ```
 
-## Demo
+### Demo
 
 ![Demo Image](media/demo2.png)
 ![Demo Image](media/demo3.png)

@@ -4,8 +4,8 @@
 ![Demo Image](media/demo3.png) -->
 
 <p align="center">
-  <img src="media/demo1.png" alt="Demo Image" style="width: 48%;" />
-  <img src="media/demo3.png" alt="Demo Image" style="width: 48%;" />
+  <img src="media/demo1.png" alt="Demo Image"/>
+  <img src="media/demo3.png" alt="Demo Image"/>
 </p>
 
 

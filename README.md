@@ -22,5 +22,5 @@ python main.py
 
 ## Demo
 
-![Demo Image](media/demo2.png)
-![Demo Image](media/demo3.png)
+- ![Demo Image](media/demo2.png)
+- ![Demo Image](media/demo3.png)

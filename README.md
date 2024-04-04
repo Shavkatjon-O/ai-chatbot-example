@@ -1,6 +1,8 @@
 ## Demo
 
-![Demo Image](images/demo.png)
+![Demo Image](images/demo1.png)
+![Demo Image](images/demo2.png)
+![Demo Image](images/demo3.png)
 
 ## Quickstart
 
